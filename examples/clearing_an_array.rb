@@ -5,8 +5,8 @@ extend BenchPress
 author 'Sandro Turriate'
 date '2010-08-01'
 summary "
-  What's the best way to clear out an array? Could be useful if you're storing 
-  messages in an array like a buffer. How should you flush the buffer when 
+  What's the best way to clear out an array? Could be useful if you're storing
+  messages in an array like a buffer. How should you flush the buffer when
   you're done with it?
 "
 
